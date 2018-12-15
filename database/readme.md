@@ -1,0 +1,1 @@
+This directory contains files database when we set /config/database.php/driver = file

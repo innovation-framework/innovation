@@ -1,0 +1,5 @@
+{
+    "require": {
+        "innovation/framework": "v1.0.*"
+    }
+}
